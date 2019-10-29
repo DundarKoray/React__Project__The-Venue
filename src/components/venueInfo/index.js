@@ -15,6 +15,12 @@ const VenueInfo = () => {
                                     className="vn_icon"
                                     style={{ background: `url(${icon_calendar})` }}
                                 ></div>
+                                <div className="vn_title">
+                                    Event Date & Time
+                                </div>
+                                <div className="vn_desc">
+                                    31 December 2019 @10.00 pm
+                                </div>
                             </div>
                         </div>
                     </div>
