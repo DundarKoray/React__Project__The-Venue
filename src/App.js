@@ -3,7 +3,8 @@ import React, { Component } from 'react';
 import Header from './components/header_footer/Header'
 import Featured from './components/featured'
 import VenueInfo from './components/venueInfo'
-import Highlights from './components/highlights';
+import Highlights from './components/highlights'
+import Pricing from './components/pricing'
 
 import './resources/styles.css';
 
@@ -16,6 +17,7 @@ class App extends Component {
         <Featured />
         <VenueInfo />
         <Highlights />
+        <Pricing />
       </div>
     );
   }
