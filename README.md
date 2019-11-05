@@ -14,6 +14,12 @@ Click the link below to see the app. <br/>
 
 After downloading the project to your machine, open it with a prefered text editor and type "npm install" and "npm start" in terminal to run it locally.
 
+# Learning Achievements
+  * React
+  * Material UI
+  * Animations (React Reveals)
+  * Downloading npm packages
+
 # Author
 
 Koray Dündar
